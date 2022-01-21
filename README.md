@@ -7,12 +7,12 @@ even though image decomposition is essential for image processing. We provide an
 tailored to the viewpoint of image decomposition based on existing R packages.
 
 The "Decomp2d" solution can be installed through the following commands.
-
+```
 > install.packages("devtools")
-
 > devtools::install_github("dkimstatlab/Decomp2d")
-
 > library(Decomp2d)
+```
+Or the package can be installed using package archive file "Decomp2d_0.6.0.tar.gz".
 
 We illustrate the usage of the "Decomp2d" solution and describe the procedure using an example image and D11 texture.
 
