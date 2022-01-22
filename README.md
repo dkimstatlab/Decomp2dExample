@@ -18,4 +18,4 @@ We illustrate the usage of the "Decomp2d" solution and describe the procedure us
 
 - Decomp2d-manual.pdf : manual of R package "Decomp2d" 
 - Decomp_D11.R : R code for decomposition of D11 texture 
-- Decomp_examples.R : R code for decomposition of synthethic two-dimensional image 
+- Decomp_examples.R : R code for decomposition of synthetic two-dimensional image 
