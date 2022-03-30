@@ -13,7 +13,9 @@ The "Decomp2d" solution can be installed through the following R commands.
 > library(Decomp2d)
 ```
 Or the package can be installed using package archive file "Decomp2d_0.6.0.tar.gz".
-
+```
+> install.packages("Decomp2d_0.6.0.tar.gz", repos = NULL, type = "source")
+```  
 We illustrate the usage of the "Decomp2d" solution and describe the procedure using an example image and D11 texture.
 
 - Decomp2d-manual.pdf : manual of R package "Decomp2d" 
